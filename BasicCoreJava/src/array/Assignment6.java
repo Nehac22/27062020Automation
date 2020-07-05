@@ -10,6 +10,23 @@ public class Assignment6 {
 		
 		//for read
 		
+		
+		String[] fruits = {"Mango" , "apple","Grapes","Oranges" };
+		
+		int[] prices = { 10 , 20, 30, 40 ,50 , 60 };
+		
+		for(String fruit: fruits)
+		{
+			System.out.println(fruit);
+		}
+		
+	 for(int i: prices)
+	 {
+		 System.out.println(i);
+
+	 }
+		
+		
 	}
 
 }
