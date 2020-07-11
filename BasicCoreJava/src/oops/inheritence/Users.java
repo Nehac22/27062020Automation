@@ -11,14 +11,14 @@ public class Users {
 	   sm.videoCall();
 		
 		
-	    Mobile mob = new Mobile();
+	   /* Mobile mob = new Mobile();
 
 		mob.calling();
 		mob.texting();
 
 		Telephone tel = new Telephone();
 		tel.calling();
-
+*/
 	}
 
 }

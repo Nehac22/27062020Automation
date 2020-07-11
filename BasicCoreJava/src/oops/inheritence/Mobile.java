@@ -7,4 +7,9 @@ public class Mobile extends Telephone {
 		System.out.println("Texting from mobile");
 	}
 	
+	public void calling()
+	{
+		System.out.println("calling from mobile");
+	}
+	
 }

@@ -7,5 +7,9 @@ public class Smartphone extends Mobile
 	{
 		System.out.println("video calling from user ");
 	}
-
+	public void calling()
+	{
+		System.out.println("calling from smartphone");
+	}
+	
 }
